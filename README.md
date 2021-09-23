@@ -1,4 +1,5 @@
 # how to use (使用说明)
+由于github上此类项目较多，本项目不再维护。大家可使用其他同类项目（例如：https://github.com/JinjunHan/iOSDeviceSupport）
 
 ## how to use
 
